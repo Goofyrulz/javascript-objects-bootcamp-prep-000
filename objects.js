@@ -1,4 +1,5 @@
 var playlist = {
- 'Slowdive' = 'Alison' ;
+ 'Slowdive' : 'Alison',
+ 
 }
 
